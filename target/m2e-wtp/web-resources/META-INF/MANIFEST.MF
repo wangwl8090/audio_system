@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-Title: audio_sys Maven Webapp
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.didi.audio
+Build-Jdk: 1.7.0
+Built-By: jh
+Created-By: Maven Integration for Eclipse
+Implementation-URL: http://maven.apache.org
+
